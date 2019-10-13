@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="74867" started-at="2019-10-13T17:02:48 IST" finished-at="2019-10-13T17:04:03 IST">
+    <groups>
+    </groups>
+    <test name="searchProduct" duration-ms="74867" started-at="2019-10-13T17:02:48 IST" finished-at="2019-10-13T17:04:03 IST">
+      <class name="com.website.script.HomePageScript">
+        <test-method status="PASS" signature="configSetup()[pri:0, instance:com.website.script.HomePageScript@4566e5bd]" name="configSetup" is-config="true" duration-ms="27730" started-at="2019-10-13T17:02:48 IST" finished-at="2019-10-13T17:03:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configSetup -->
+        <test-method status="PASS" signature="click(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.website.script.HomePageScript@4566e5bd]" name="click" duration-ms="6815" started-at="2019-10-13T17:03:18 IST" data-provider="productdetail" finished-at="2019-10-13T17:03:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Computer Peripherals]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Microsoft IntelliMouse Explorer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[$64.95]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ball]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[There are no available products.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="click(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.website.script.HomePageScript@4566e5bd]" name="click" duration-ms="6035" started-at="2019-10-13T17:03:25 IST" data-provider="productdetail" finished-at="2019-10-13T17:03:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Games]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Call Of Duty]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[$39.99]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mouse]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[There are no available products.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="click(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.website.script.HomePageScript@4566e5bd]" name="click" duration-ms="7168" started-at="2019-10-13T17:03:31 IST" data-provider="productdetail" finished-at="2019-10-13T17:03:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DVD Movies]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Die Hard With A Vengeance]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[$39.99]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[call of duty]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[There are no available products.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="click(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.website.script.HomePageScript@4566e5bd]" name="click" duration-ms="5977" started-at="2019-10-13T17:03:38 IST" data-provider="productdetail" finished-at="2019-10-13T17:03:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Software]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[$79.99]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kkk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[There are no available products.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="click(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.website.script.HomePageScript@4566e5bd]" name="click" duration-ms="6218" started-at="2019-10-13T17:03:44 IST" data-provider="productdetail" finished-at="2019-10-13T17:03:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kindle Fire HD]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[$199.99]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pd]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[There are no available products.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="click(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.website.script.HomePageScript@4566e5bd]" name="click" duration-ms="5280" started-at="2019-10-13T17:03:50 IST" data-provider="productdetail" finished-at="2019-10-13T17:03:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home & Garden]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[De'Longhi BCO 410]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[$159.99]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[work]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[There are no available products.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="click(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.website.script.HomePageScript@4566e5bd]" name="click" duration-ms="7603" started-at="2019-10-13T17:03:55 IST" data-provider="productdetail" finished-at="2019-10-13T17:04:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gifts]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gift Certificate]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[$10.00]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[card]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[There are no available products.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.website.script.HomePageScript@4566e5bd]" name="endReport" is-config="true" duration-ms="3811" started-at="2019-10-13T17:04:03 IST" finished-at="2019-10-13T17:04:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.website.script.HomePageScript -->
+    </test> <!-- searchProduct -->
+  </suite> <!-- Suite1 -->
+</testng-results>

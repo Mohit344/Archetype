@@ -3,13 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.website.websiteautomation.script.App">
+      <class name="com.website.script.Practice">
         <methods>
-          <include name="click"/>
-          <include name="configSetup"/>
-          <include name="endReport"/>
+          <include name="practice"/>
         </methods>
-      </class> <!-- com.website.websiteautomation.script.App -->
+      </class> <!-- com.website.script.Practice -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
